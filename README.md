@@ -99,7 +99,7 @@ The same heat transfer problem was solved in ANSYS Fluent using identical geomet
 
 ## Fluent Temperature Contours
 
-![Fluent Contour](images/fluent-contour.PNG)
+![Fluent Contour](images/fluent-contour.jpg)
 
 ---
 
